@@ -5,3 +5,5 @@ day 3: split strings in equal parts, find common characters & loop over datafram
 
 day 4: intersections of integer ranges
 
+day 6: processing list of chars as chunks of list items
+
